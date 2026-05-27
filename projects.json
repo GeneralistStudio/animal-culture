@@ -21,12 +21,52 @@
     ],
     "appearances": [
       {
-        "label": "MIT Media Lab, 2024",
+        "label": "Earthfest by New Ear:: SPATIAL at Reforesters Laboratory (Brooklyn, NY, Apr 21, 2026)",
+        "url": "https://new-ear.org/"
+      },
+      {
+        "label": "SUNY AI Symposium at Stony Brook University (Stony Brook, NY, April 14-15, 2026)",
+        "url": "https://www.stonybrook.edu/ai_symposium/"
+      },
+      {
+        "label": "Penumbra at Ortega y Gasset Projects (Brooklyn, NY, March 7, 2026)",
+        "url": "https://www.artwrld.com/exhibit/penumbra-beyond-the-uncanny-valley"
+      },
+      {
+        "label": "New Museum (New York, NY, March 13-23, 2026)",
+        "url": "https://newmuseum.org/"
+      },
+      {
+        "label": "Planetarium at ʻImiloa Astronomy Center (Hilo, HI, March 17, 2026)",
+        "url": "https://imiloahawaii.org/"
+      },
+      {
+        "label": "EarFest at Stony Brook University (Stony Brook, NY, February 19, 2026)",
+        "url": "https://calendar.stonybrook.edu/site/cas/event/earfest/"
+      },
+      {
+        "label": "Technology in Music and Related Art at Oberlin College (Oberlin, OH, December 5, 2025)",
+        "url": "https://www.oberlin.edu/timara"
+      },
+      {
+        "label": "Something Fierce Festival at Flux Factory (Queens, NY, November 22-23, 2025)",
+        "url": "https://www.ameliamarzec.com/somethingfierce/"
+      },
+      {
+        "label": "25 Saint James Place (Manhattan, November 20, 2025)",
         "url": null
       },
       {
-        "label": "RISD Exhibition",
-        "url": null
+        "label": "NEW INC and New Museum Creative Science Dinner at Prospect Park Boathouse (Brooklyn, NY, October 14, 2025)",
+        "url": "https://www.newmuseum.org/new-inc/"
+      },
+      {
+        "label": "TechnoMirage (New York, NY, September 21, 2025)",
+        "url": "https://www.uaad.art/technomirage"
+      },
+      {
+        "label": "Reforesters Laboratory (Brooklyn, NY, June 21-22, 2025)",
+        "url": "https://reforesters.io/"
       }
     ],
     "images": [
